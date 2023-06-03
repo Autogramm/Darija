@@ -70,7 +70,7 @@
 8	ʾanā	ʾanā	PRON	_	Gloss=Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=21028|AlignEnd=21426|nWord=7|GE=[Number=Sing$Person=1$PronType=Prs]|RX=[PRON]
 9	fī	fī	ADP	_	Gloss=dans	_	_	_	AlignBegin=21426|AlignEnd=21824|nWord=8|GE=dans|RX=[ADP]
 10	sana	sana	NOUN	_	Gloss=année.Gender=Fem|Number=Sing	_	_	_	AlignBegin=21824|AlignEnd=22222|nWord=9|GE=[année].[Gender=Fem$Number=Sing]|RX=[NOUN]
-11	tālta	tālta	ADJ	_	Gloss=troisième.Definite=Ind|Gender=Fem|Number=Sing|NumType:Ord	_	_	_	AlignBegin=22222|AlignEnd=22620|nWord=10|GE=[troisième].[Definite=Ind$Gender=Fem$Number=Sing$NumType:Ord]|RX=[ADJ]
+11	tālta	tālta	ADJ	_	Gloss=troisième.Definite=Ind|Gender=Fem|Number=Sing|NumType=Ord	_	_	_	AlignBegin=22222|AlignEnd=22620|nWord=10|GE=[troisième].[Definite=Ind$Gender=Fem$Number=Sing$NumType=Ord]|RX=[ADJ]
 12	kolliyya	kolliyya	NOUN	_	Gloss=faculté.Definite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=22620|AlignEnd=23018|nWord=11|GE=[faculté].[Definite=Ind$Gender=Fem$Number=Sing]|RX=[NOUN]
 13	el=		DET	_	Gloss=Definite=Def	_	_	_	AlignBegin=23018|AlignEnd=23217|nWord=12|GE=[Definite=Def]|RX=[DET]
 14	sana	sana	NOUN	_	Gloss=année.Gender=Fem|Number=Sing	_	_	_	AlignBegin=23217|AlignEnd=23416|nWord=12|GE=[année].[Gender=Fem$Number=Sing]|RX=[NOUN]
