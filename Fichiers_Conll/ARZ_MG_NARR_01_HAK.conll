@@ -415,7 +415,7 @@
 23	=š		PART	_	Gloss=Polarity=Neg	_	_	_	AlignBegin=83275|AlignEnd=83404|nWord=16|GE=[Polarity=Neg]|RX=[PART]
 24	zamānī	zamānī	ADV	_	Gloss=actuellement	_	_	_	AlignBegin=83404|AlignEnd=83793|nWord=17|GE=actuellement|RX=[ADV]
 25	fī=		ADP	_	Gloss=dans	_	_	_	AlignBegin=83793|AlignEnd=84182|nWord=18|GE=dans|RX=[ADP]
-26	tālta	tālta	ADJ	_	Gloss=troisième.Defīnite=Ind|Gender=Fem|Number=Sing|NumType:Ord	_	_	_	AlignBegin=84182|AlignEnd=84571|nWord=19|GE=[troisième].[Defīnite=Ind$Gender=Fem$Number=Sing$NumType:Ord]|RX=[ADJ]
+26	tālta	tālta	ADJ	_	Gloss=troisième.Defīnite=Ind|Gender=Fem|Number=Sing|NumType=Ord	_	_	_	AlignBegin=84182|AlignEnd=84571|nWord=19|GE=[troisième].[Defīnite=Ind$Gender=Fem$Number=Sing$NumType=Ord]|RX=[ADJ]
 27	gāmʿa	gāmʿa	NOUN	_	Gloss=université.Defīnite=Ind|Gender=Fem|Number=Sing	_	_	_	AlignBegin=84571|AlignEnd=84953|nWord=20|GE=[université].[Defīnite=Ind$Gender=Fem$Number=Sing]|RX=[NOUN]
 
 # sent_id = ARZ_MG_NARR_01_HAK_33-35
